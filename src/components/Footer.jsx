@@ -151,7 +151,7 @@ export default function Footer() {
                     Email
                   </span>
                   <a href="mailto:info@bharatx.ventures" className="text-slate-700 text-sm font-medium hover:text-emerald-600 transition-colors">
-                    info@bharatx.ventures
+                    info@bharatx.vc
                   </a>
                 </div>
               </div>
