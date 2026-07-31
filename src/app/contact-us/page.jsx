@@ -358,7 +358,7 @@ const handleSubmit = (e) => {
                   className="text-gray-600 mb-10"
                 >
                   Complete the form below and our strategic partnership team
-                  will contact you within 24-48 business hours.
+                  will contact you within 24 to 48 business hours.
                 </motion.p>
 
                 <form
